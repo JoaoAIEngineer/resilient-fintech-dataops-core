@@ -24,5 +24,5 @@ El proyecto aplica el principio de **Separación de Responsabilidades (Separatio
 
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/resilient-fintech-dataops-core.git](https://github.com/TU_USUARIO/resilient-fintech-dataops-core.git)
+   git clone [https://github.com/JoaoAIEngineer/resilient-fintech-dataops-core](https://github.com/JoaoAIEngineer/resilient-fintech-dataops-core)
    cd resilient-fintech-dataops-core
